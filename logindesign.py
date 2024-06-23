@@ -97,7 +97,7 @@ class Ui_Login(object):
         self.username.setPlaceholderText(_translate("Login", "Username"))
         self.password.setPlaceholderText(_translate("Login", "Password"))
         self.loginbtn.setText(_translate("Login", "L O G I N"))
-        self.label_3.setText(_translate("Login", "Not registred yet?"))
+        self.label_3.setText(_translate("Login", "Not registered yet?"))
         self.create_account.setText(_translate("Login", "Create an account"))
 
 
